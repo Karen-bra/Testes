@@ -62,7 +62,7 @@
 | Professor          | Realizar login com e-mail e senha |Acessar meus dados com segurança.     |
 | Professor          |Lançar as notas dos alunos|Registrar corretamente o desempenho de cada um.                |
 | Professor          | O sistema calcule automaticamente a média|Evitar erros manuais.               |
-| Professor          |  Vizualizar a situação do aluno (Aprovado, Recuperação ou Reprovado).|     |
+| Professor          |  Vizualizar a situação do aluno (Aprovado, Recuperação ou Reprovado).| Acompanhar seu desempenho final.     |
 | Professor          |Listar todos os alunos cadastrados|Ter controle completo da turma.|
 | Professor          | Editar os dados dos alunos|Corrigir possíveis erros no cadastro ou nas notas.      |
 | Professor          | Excluir alunos do sistema|Para remover registros incorretos ou que não fazem mais parte da turma.     |
