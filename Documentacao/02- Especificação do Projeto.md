@@ -1,23 +1,25 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil 01: Professores  </th>
+<th colspan="2">Perfil 01:Professor Atarefado  </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">Qualquer professor atarefado e sobrecarregado podera usar essa plataforma para ajuda na dinâmica de seus lançamentos de nota.</td> 
+<td width="600px">Professor que atua em escolas, faculdades ou como autônomo, possui grande volume de alunos e pouco tempo disponível para realizar lançamentos de notas manualmente. Busca agilidade, praticidade e organização no processo de avaliação.</td> 
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
 <td>
 
-  1.Acesso fácil a visualizaçao de lançamentos de notas. 
+1.Acesso fácil e rápido à visualização dos lançamentos de notas.
 
-  
-   2.Cadastrar novos alunos sem dificuldades.  
+2.Cadastro de novos alunos de forma simples e sem dificuldades.
 
+3.Acesso completo à lista de alunos cadastrados.
 
-3.Acesso a todos os alunos cadastrados.</td>
+4.Agilidade no cálculo das médias e resultados finais.
+
+5.Segurança no armazenamento das informações.</td>
 </tr>
 </tbody>
 </table>
@@ -25,23 +27,25 @@
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil 02:Professor </th>
+<th colspan="2">Perfil 02:Professor Gestor </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">Professores de qualquer ensino pode acessar ao site sem qualquer problema.</td>
+<td width="600px">Professor que, além de lecionar, também realiza controle administrativo das turmas, acompanhando o desempenho geral dos alunos. Necessita de organização e controle sobre os dados.</td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
 <td>
 
-  1. Somar notas e dar o resultado certo no final do cadastro das notas.
+1.Cálculo automático das notas e exibição correta do resultado final.
 
-  
-2.Acesso fácil as páginas da aplicação. 
+2.Acesso fácil às páginas da aplicação.
 
+3.Possibilidade de editar informações quando necessário.
 
-3.Fazer alterações se necessário. </td>
+4.Exclusão de alunos cadastrados incorretamente.
+
+5.Visualização clara da situação de cada aluno (aprovado, recuperação ou reprovado).</td>
 </tr>
 </tbody>
 </table>
@@ -52,16 +56,16 @@
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE`                                 |PARA ... `PORQUE`                                                    |
 |-|-|-|
-| Aluno              |                                                           |                       |
-| Professor          |                                                           |  |
-| Aluno              |                                                           |
-|                    |                                                           |     |
-|                    |                                                           |                |
-|                    |                                                           |              |
-|                    |                                                           |     |
-|                    |                                                           |                                  |
-|                    |                                                           |       |
-|                    |                                                           |     |
+| Professor          | Me cadatrar no sistema | Para ter acesso ás funcionalidades da plataforma.                       |
+| Professor          | Acessar o dashboard inicial|Para vizualizar rapidamente as opções principais do sistema.  |
+| Professor          | Cadastrar novos alunos |Para organizar minha turma de forma prática.
+| Professor          | Realizar login com e-mail e senha |Acessar meus dados com segurança.     |
+| Professor          |Lançar as notas dos alunos|Registrar corretamente o desempenho de cada um.                |
+| Professor          | O sistema calcule automaticamente a média|Evitar erros manuais.               |
+| Professor          |  Vizualizar a situação do aluno (Aprovado, Recuperação ou Reprovado).|     |
+| Professor          |Listar todos os alunos cadastrados|Ter controle completo da turma.|
+| Professor          | Editar os dados dos alunos|Corrigir possíveis erros no cadastro ou nas notas.      |
+| Professor          | Excluir alunos do sistema|Para remover registros incorretos ou que não fazem mais parte da turma.     |
 
 
 ## Requisitos do Projeto
